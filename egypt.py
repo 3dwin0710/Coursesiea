@@ -5,7 +5,7 @@ def Egypt(x,y):
     return 0
   elif (x % 2 == 0): # Si x modulo 2 ==0 alors on return la fonction f avec x/2 et y*2
   # tout en sachant que x pair donc cela va nous donner un nombre sans virgule
-    return Egypt(x / 2, 2*y)
+    return Egypt(x / 2, y+y)
   elif (x % 2 == 1):
     return Egypt(x - 1, y) + y
   else:
