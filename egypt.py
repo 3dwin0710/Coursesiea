@@ -15,4 +15,8 @@ def Egypt(x,y):
 # Thanks pour neo2500
 # Inspiration C => Python
 
-print(Egypt(20363,2011));
+
+x = int(input())
+y = int(input())
+
+print(Egypt(x,y));
