@@ -15,4 +15,7 @@ def syracuse(n, count):
 
 
 
-print(syracuse(45, 1))
+n = int(input())
+m = int(input())
+
+print(syracuse(n, m))
