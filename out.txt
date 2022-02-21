@@ -1,0 +1,19 @@
+The resultat of this operation is :
+Operation 1 : 7 
+Operation 2 : 22 
+Operation 3 : 11 
+Operation 4 : 34 
+Operation 5 : 17 
+Operation 6 : 52 
+Operation 7 : 26 
+Operation 8 : 13 
+Operation 9 : 40 
+Operation 10 : 20 
+Operation 11 : 10 
+Operation 12 : 5 
+Operation 13 : 16 
+Operation 14 : 8 
+Operation 15 : 4 
+Operation 16 : 2 
+Operation 17 : 1 
+Total number of this operation is 17 
